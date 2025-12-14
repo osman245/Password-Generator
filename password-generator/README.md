@@ -1,0 +1,1 @@
+In this password generator.Using bash script for the backend and html/css for the frontend where going to Ask for the length you want your password to be, hypothetically "5". we read this file then were going to generate a 48 byte hexidecimal number and take its first character, to generate in total 5 complex characters for your password.
